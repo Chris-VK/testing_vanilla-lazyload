@@ -1,0 +1,16 @@
+{
+  "name": "testing_vanilla-lazyload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "author": "Christian van Keulen",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "lazysizes": "^5.2.2",
+    "vanilla-lazyload": "^17.1.0"
+  }
+}
